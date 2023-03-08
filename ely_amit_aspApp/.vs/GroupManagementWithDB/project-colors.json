@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "48fd5b41-a176-4c1b-8451-14803f360138": {
+      "ProjectGuid": "48fd5b41-a176-4c1b-8451-14803f360138",
+      "DisplayName": "GroupManagementWithDB",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

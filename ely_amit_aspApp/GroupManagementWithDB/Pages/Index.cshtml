@@ -1,0 +1,49 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</head>
+<body>
+                            @if (Model.PermissionLevel != 0)
+{
+         <form   method="POST">
+      <button type='submit'>Logout</button>
+
+      </form>
+      <br />
+}
+<div class="container">
+  <div class="jumbotron">
+    <h1>Welcome to Group-Management</h1>
+    <p >The best site you ever seen!</p> 
+  </div>
+  <div class="row">
+    <div class="col-sm-4">
+      <h3>About us</h3>
+      <p>Hello, we are college students and this is our website application</p>
+      <p>We hope you will like it ! :)</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Our Names</h3>
+      <p>Elyhu</p>
+      <p>Amit</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Lets go</h3>
+      <p>You can register to our side ,login and when logged in you can join group!</p>
+    </div>
+ 
+  </div>
+</div>
+
+</body>
+</html>

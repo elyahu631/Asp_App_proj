@@ -1,0 +1,40 @@
+﻿@page
+@model GroupManagementWithDB.Pages.UserGroups.MyGroupsModel
+@{
+}
+
+<br />
+<h2>My Groups</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Created At</th>
+             <th></th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach(var item in Model.listGroups)
+        {
+             <tr>
+            <td>@item.id</td>
+            <td>@item.name</td>
+            <td>@item.created_at</td>
+            <td>
+                 @if (Model.PermissionLevel == 1)
+                    {
+@*                        <a class="btn btn-primary btn-sm " href="Groups/Edit?id=@item.id">Edit</a>
+*@                        <a class="btn btn-danger btn-sm " href="LeaveGroup?id=@item.id">X</a>
+                    }
+                @*    else if (Model.PermissionLevel == 1)
+                    {
+                        <a class="btn btn-danger btn-sm " href="Groups/Join?id=@item.id">Join</a>
+                    }*@
+                </td>
+        </tr>
+        }
+    </tbody>
+
+</table>
