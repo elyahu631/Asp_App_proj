@@ -15,11 +15,11 @@ namespace GroupManagementWithDB.Pages.Users
         //
         private const string emailRegex = @"^[a-zA-Z0-9\.\-_]+@[a-zA-Z]{2,15}(?:\.[a-zA-Z]+){1,2}$";
         private const string nameRegex = @"^[a-zA-Z\s]+$";
-
+       
 
         //: בין 7 עד 20 תווים (כולל), כאשר חייבת להכיל: אות גדולה אחת לפחות, ספרה אחת לפחות ותו מיוחד אחד לפחות.
         private const string passRegex = @"^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[#?!@$ %^&*-]).{7,20}$";
-
+        
         public UsersInformation registrationInfo = new UsersInformation();
         public string errorMessage = "";
         public string successMessage = "";
@@ -168,7 +168,7 @@ namespace GroupManagementWithDB.Pages.Users
             MailMessage message = new MailMessage("elynivwpf@gmail.com", to, subject, body);
             SmtpClient smtp = new SmtpClient("smtp.gmail.com", 587);//587, 465, 25, 2525
             smtp.EnableSsl = true;
-            smtp.Credentials = new NetworkCredential("elynivwpf@gmail.com", DecodingPassword("MzA4MzExMzE2MzE2MzA5MzIzMzIwMzA1MzAzMzIyMzA4MzExMjk1MzI2MzI3MzEw","email"));
+            smtp.Credentials = new NetworkCredential("elynivwpf@gmail.com", DecodingPassword("MzA4MzExMzE2MzE2MzA5MzIzMzIwMzA1MzAzMzIyMzA4MzExMjk1MzI2MzI3MzEw", "email"));
             smtp.Send(message);
         }
 

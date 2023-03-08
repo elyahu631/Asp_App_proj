@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mDE3EL3GNPtIeJw9JX9m3fOoZN+Qvf4Vo65ybu27ADn+2G4GukN+XAlSI5/9G96cvtn22iro99zt5vtRzjjOoA==",
+  "dgSpecHash": "IncHkkk1vVP8CMcPJXY//OLGpRrG4G3TndC3rbryWP1MO9yP67KxRl6THISK6iTSWJbWVXNSUk1lonvqZA2cJQ==",
   "success": true,
-  "projectFilePath": "E:\\סמסטר א\\פיתוח מאובטח\\ely_amit_aspApp\\GroupManagementWithDB\\GroupManagementWithDB.csproj",
+  "projectFilePath": "E:\\סמסטר א\\ely_amit_aspApp\\GroupManagementWithDB\\GroupManagementWithDB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eliahu Anavi\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Eliahu Anavi\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

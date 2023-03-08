@@ -427,36 +427,36 @@ D:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\refint\G
 D:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\GroupManagementWithDB.pdb
 D:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\GroupManagementWithDB.genruntimeconfig.cache
 D:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\ref\GroupManagementWithDB.dll
-E:\סמסטר א\פיתוח מאובטח\ely_amit_aspApp\GroupManagementWithDB\bin\Debug\net6.0\appsettings.Development.json
-E:\סמסטר א\פיתוח מאובטח\ely_amit_aspApp\GroupManagementWithDB\bin\Debug\net6.0\appsettings.json
-E:\סמסטר א\פיתוח מאובטח\ely_amit_aspApp\GroupManagementWithDB\bin\Debug\net6.0\GroupManagementWithDB.staticwebassets.runtime.json
-E:\סמסטר א\פיתוח מאובטח\ely_amit_aspApp\GroupManagementWithDB\bin\Debug\net6.0\GroupManagementWithDB.exe
-E:\סמסטר א\פיתוח מאובטח\ely_amit_aspApp\GroupManagementWithDB\bin\Debug\net6.0\GroupManagementWithDB.deps.json
-E:\סמסטר א\פיתוח מאובטח\ely_amit_aspApp\GroupManagementWithDB\bin\Debug\net6.0\GroupManagementWithDB.runtimeconfig.json
-E:\סמסטר א\פיתוח מאובטח\ely_amit_aspApp\GroupManagementWithDB\bin\Debug\net6.0\GroupManagementWithDB.dll
-E:\סמסטר א\פיתוח מאובטח\ely_amit_aspApp\GroupManagementWithDB\bin\Debug\net6.0\GroupManagementWithDB.pdb
-E:\סמסטר א\פיתוח מאובטח\ely_amit_aspApp\GroupManagementWithDB\bin\Debug\net6.0\System.Data.SqlClient.dll
-E:\סמסטר א\פיתוח מאובטח\ely_amit_aspApp\GroupManagementWithDB\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
-E:\סמסטר א\פיתוח מאובטח\ely_amit_aspApp\GroupManagementWithDB\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
-E:\סמסטר א\פיתוח מאובטח\ely_amit_aspApp\GroupManagementWithDB\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
-E:\סמסטר א\פיתוח מאובטח\ely_amit_aspApp\GroupManagementWithDB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-E:\סמסטר א\פיתוח מאובטח\ely_amit_aspApp\GroupManagementWithDB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-E:\סמסטר א\פיתוח מאובטח\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\GroupManagementWithDB.csproj.AssemblyReference.cache
-E:\סמסטר א\פיתוח מאובטח\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\GroupManagementWithDB.GeneratedMSBuildEditorConfig.editorconfig
-E:\סמסטר א\פיתוח מאובטח\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\GroupManagementWithDB.AssemblyInfoInputs.cache
-E:\סמסטר א\פיתוח מאובטח\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\GroupManagementWithDB.AssemblyInfo.cs
-E:\סמסטר א\פיתוח מאובטח\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\GroupManagementWithDB.csproj.CoreCompileInputs.cache
-E:\סמסטר א\פיתוח מאובטח\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\GroupManagementWithDB.MvcApplicationPartsAssemblyInfo.cache
-E:\סמסטר א\פיתוח מאובטח\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\GroupManagementWithDB.RazorAssemblyInfo.cache
-E:\סמסטר א\פיתוח מאובטח\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\GroupManagementWithDB.RazorAssemblyInfo.cs
-E:\סמסטר א\פיתוח מאובטח\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\staticwebassets.build.json
-E:\סמסטר א\פיתוח מאובטח\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\staticwebassets.development.json
-E:\סמסטר א\פיתוח מאובטח\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
-E:\סמסטר א\פיתוח מאובטח\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\scopedcss\bundle\GroupManagementWithDB.styles.css
-E:\סמסטר א\פיתוח מאובטח\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\scopedcss\projectbundle\GroupManagementWithDB.bundle.scp.css
-E:\סמסטר א\פיתוח מאובטח\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\GroupManagementWithDB.csproj.CopyComplete
-E:\סמסטר א\פיתוח מאובטח\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\GroupManagementWithDB.dll
-E:\סמסטר א\פיתוח מאובטח\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\refint\GroupManagementWithDB.dll
-E:\סמסטר א\פיתוח מאובטח\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\GroupManagementWithDB.pdb
-E:\סמסטר א\פיתוח מאובטח\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\GroupManagementWithDB.genruntimeconfig.cache
-E:\סמסטר א\פיתוח מאובטח\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\ref\GroupManagementWithDB.dll
+E:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\bin\Debug\net6.0\appsettings.Development.json
+E:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\bin\Debug\net6.0\appsettings.json
+E:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\bin\Debug\net6.0\GroupManagementWithDB.staticwebassets.runtime.json
+E:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\bin\Debug\net6.0\GroupManagementWithDB.exe
+E:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\bin\Debug\net6.0\GroupManagementWithDB.deps.json
+E:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\bin\Debug\net6.0\GroupManagementWithDB.runtimeconfig.json
+E:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\bin\Debug\net6.0\GroupManagementWithDB.dll
+E:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\bin\Debug\net6.0\GroupManagementWithDB.pdb
+E:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\GroupManagementWithDB.csproj.AssemblyReference.cache
+E:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\GroupManagementWithDB.GeneratedMSBuildEditorConfig.editorconfig
+E:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\GroupManagementWithDB.AssemblyInfoInputs.cache
+E:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\GroupManagementWithDB.AssemblyInfo.cs
+E:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\GroupManagementWithDB.csproj.CoreCompileInputs.cache
+E:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\GroupManagementWithDB.MvcApplicationPartsAssemblyInfo.cache
+E:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\GroupManagementWithDB.RazorAssemblyInfo.cache
+E:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\GroupManagementWithDB.RazorAssemblyInfo.cs
+E:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\staticwebassets.build.json
+E:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\staticwebassets.development.json
+E:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\scopedcss\bundle\GroupManagementWithDB.styles.css
+E:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\scopedcss\projectbundle\GroupManagementWithDB.bundle.scp.css
+E:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\GroupManagementWithDB.csproj.CopyComplete
+E:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\GroupManagementWithDB.dll
+E:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\refint\GroupManagementWithDB.dll
+E:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\GroupManagementWithDB.pdb
+E:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\GroupManagementWithDB.genruntimeconfig.cache
+E:\סמסטר א\ely_amit_aspApp\GroupManagementWithDB\obj\Debug\net6.0\ref\GroupManagementWithDB.dll

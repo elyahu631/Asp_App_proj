@@ -97,6 +97,7 @@ go
 
 
 
+
 --drop TABLE users_groups
 create TABLE users_groups(
 	email varchar (40)  NOT NULL,
@@ -150,9 +151,9 @@ FROM            dbo.user_loggedin INNER JOIN
 go
 
 
-create PROC Proc_Groups_To_Join
+Create PROC Proc_Groups_To_Join
 as
-SELECT        dbo.groups.id_group, dbo.groups.name, dbo.groups.created_at
+SELECT      DISTINCT   dbo.groups.id_group, dbo.groups.name, dbo.groups.created_at
 FROM            dbo.groups LEFT OUTER JOIN
                          dbo.users_groups ON dbo.groups.id_group = dbo.users_groups.id_group LEFT OUTER JOIN
                          dbo.Show_My_Groups ON dbo.groups.id_group = dbo.Show_My_Groups.id_group LEFT OUTER JOIN
@@ -160,6 +161,36 @@ FROM            dbo.groups LEFT OUTER JOIN
 WHERE        (dbo.Show_My_Groups.id_group IS NULL)
 go
 
+
+
+Create PROC Proc_Users_In_Groups
+@id_group int
+as
+SELECT users.id, users.first_name, users.last_name, users.email
+FROM     groups INNER JOIN
+                  users_groups ON groups.id_group = users_groups.id_group INNER JOIN
+                  users ON users_groups.email = users.email
+WHERE  (groups.id_group = @id_group)
+go
+
+exec Proc_Users_In_Groups 3
+go
+
+
+select * from users
+go
+
+select * from users_groups
+go
+
+
+create PROC Proc_Disconnect_Users_From_Group
+@id int,@id_group int 
+as
+DELETE  from users_groups
+WHERE email = (SELECT email FROM users WHERE id = @id)
+AND id_group = @id_group;
+go
 
 
 

@@ -20,8 +20,7 @@ namespace GroupManagementWithDB.Pages.Groups
         public string FirstName = "";
         public static string serverName = System.Environment.MachineName;//gets the pc name
 
-        //public const string myComputer = "DESKTOP-CEUMQH8";
-        //public const string myComputer = "LAPTOP-FMOR13KE";
+        
 
         public string connectionString = $@"Server={serverName}\SQLEXPRESS;Database=GroupManagementDB;Trusted_Connection=True";//קוד לכניסה למדע נתונים
 
@@ -36,7 +35,7 @@ namespace GroupManagementWithDB.Pages.Groups
                     PermissionLevel = usersInfo.PermissionLevel;
                     FirstName = usersInfo.firstName;
                 }
-                if (PermissionLevel == 0)
+                if (PermissionLevel < 2)
                 {
                     Response.Redirect("/Users/Login");
                     return;

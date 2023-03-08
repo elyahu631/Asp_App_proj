@@ -476,11 +476,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\סמסטר א\\פיתוח מאובטח\\ely_amit_aspApp\\GroupManagementWithDB\\GroupManagementWithDB.csproj",
+      "projectUniqueName": "E:\\סמסטר א\\ely_amit_aspApp\\GroupManagementWithDB\\GroupManagementWithDB.csproj",
       "projectName": "GroupManagementWithDB",
-      "projectPath": "E:\\סמסטר א\\פיתוח מאובטח\\ely_amit_aspApp\\GroupManagementWithDB\\GroupManagementWithDB.csproj",
+      "projectPath": "E:\\סמסטר א\\ely_amit_aspApp\\GroupManagementWithDB\\GroupManagementWithDB.csproj",
       "packagesPath": "C:\\Users\\Eliahu Anavi\\.nuget\\packages\\",
-      "outputPath": "E:\\סמסטר א\\פיתוח מאובטח\\ely_amit_aspApp\\GroupManagementWithDB\\obj\\",
+      "outputPath": "E:\\סמסטר א\\ely_amit_aspApp\\GroupManagementWithDB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
